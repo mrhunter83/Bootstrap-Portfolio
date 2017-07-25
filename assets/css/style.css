@@ -1,0 +1,221 @@
+hr {margin-bottom: 25px;}
+
+#submit {
+	background-color: #4aaaa5;
+  text-decoration: none;
+	box-shadow: none;
+	border-radius: 0px;
+}
+
+.margins {
+	position: relative;
+	margin: 25px 25px 25px 25px;
+}
+
+.bodywrapper1 {
+    margin-left:auto;
+    margin-right:auto;
+    padding-bottom: 120px;
+    overflow: auto;
+    width:960px;
+}
+ 
+.prtfliolinks {
+	color: white;
+  width: 100%;
+  position: absolute;
+	text-align: center;
+	height: 50px;
+  line-height: 50px;
+	background-color: #4aaaa5;
+	font-family: 'Times New Roman';
+  bottom: 0px;
+}
+
+.imageContainer1 {
+   width: 200px; 
+   height: 200px; 
+   margin: 0px 15px 30px 70px;
+   float: left;
+   position: relative;
+   background-image: url("../images/city-q-c-280-280-4.jpg");
+}
+
+.imgfloat {
+  float: left;
+  margin: 0px 15px 15px 0px;
+}
+
+.imageContainer2 {
+   width: 200px; 
+   height: 200px;
+   margin: 0px 70px 30px 15px; 
+   float: right;
+   position: relative;
+   background-image: url("../images/city-q-c-280-280-1.jpg");
+}
+
+.imageContainer3 {
+   width: 200px; 
+   height: 200px;
+   margin: 0px 15px 30px 70px;
+   float: left;
+   position: relative; 
+   background-image: url("../images/abstract-q-c-280-280-10.jpg");
+}
+
+.imageContainer4 {
+   width: 200px; 
+   height: 200px;
+   margin: 0px 70px 30px 15px;
+   float: right;
+   position: relative; 
+   background-image: url("../images/nature-q-c-280-280-8.jpg");
+}
+
+.imageContainer5 {
+   width: 200px; 
+   height: 200px;
+   margin: 0px 15px 30px 70px;
+   float: left;
+   position: relative; 
+   background-image: url("../images/technics-q-c-280-280-8.jpg");
+}
+
+.footer_div {
+	position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #666666;
+	text-align: center;
+	height: 60px;
+	border-top: 8px solid #4aaaa5;
+	font-family: 'Arial';
+	color: white;
+}
+
+.name_div {
+	background-color: #4aaaa5;
+	font-family: 'Georgia';
+	text-align: center;
+	color: white;
+	float: left;
+	width: 320px;
+	height: 90px;
+  line-height: 90px;
+  font-size: 2em;
+  /*display: block;*/
+  font-weight: bold;
+}
+
+.bodyback {
+  background-image: url("../images/stardust.png");
+  position: relative;
+}
+
+.headings {
+	font-family: 'Georgia';
+	color: #4aaaa5;
+}
+
+.header_div {
+	background-color: white;
+	border-bottom: solid #cccccc;
+	height: 90px;
+	margin: auto;
+}
+
+.link_div {
+	background-color: white;
+	height: 90px;
+	line-height: 45px;
+	margin: auto;
+	float: right;
+  border-bottom: solid #cccccc;
+}
+
+.main_div {
+	width: 650px;
+	position: relative;
+	background-color: white;
+	left: 0px;
+	float: left;
+	border-style: solid;
+	border-color: #dddddd;
+}
+
+.sidebar_div {
+	width: 270px;
+	position: relative;
+	background-color: #ffffff;
+	text-align: center;
+	border-style: solid;
+	border-color: #dddddd;
+	right: 0px;
+	float: right;
+}
+
+.abtbutton {
+    background-color: #ffffff;
+    border-right: 1px solid #777777;
+    color: #777777;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    font-family: 'Arial';
+    margin: 6px 0px;
+    cursor: pointer;
+}
+
+.ptfliobutton {
+    background-color: #ffffff;
+    border-right: 1px solid #777777;
+    color: #777777;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    font-family: 'Arial';
+    margin: 6px 0px;
+    cursor: pointer;
+}
+
+.cntctbutton {
+    background-color: #ffffff;
+    color: #777777;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    font-family: 'Arial';
+    margin: 6px 0px;
+    cursor: pointer;
+}
+
+p {
+	color: #777777;
+	font-family: 'Arial';
+}
+/*TEST CODE*/
+/*TEST CODE*/
+.imageContainer6 {
+   width: 200px; 
+   height: 200px;
+   margin: 0px 15px 30px 70px;
+   float: left;
+   position: relative; 
+   background-image: url("../images/technics-q-c-280-280-8.jpg");
+   display: table-column;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.links {text-decoration: none;}
+
